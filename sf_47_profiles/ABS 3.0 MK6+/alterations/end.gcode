@@ -1,0 +1,16 @@
+(**** Beginning of end.txt ****)
+M106 (fan on)
+G1 X0.0 Y54.0 F3300.0 (move platform to ejection position)
+G92 X0 Y0 Z0 E3 (You are now at 0,0,0,3)
+G1 F4800.0
+G1 X0.0 Y0.0 Z0.0 E0 F4800.0 (backup filament 2mm)
+G1 F300
+(previously the ejection position line was here, after reversing the extruder)
+(i want the platform to move to an absolute position, rather than relative)
+M18 (turn off steppers.)
+(**** begin cool for safety ****)
+M104 S0 T0 (set extruder temperature)
+M109 S0 T0 (set heated-build-platform temperature)
+M107 (fan off)
+(**** end cool for safety ****)
+(**** end of end.txt ****)
