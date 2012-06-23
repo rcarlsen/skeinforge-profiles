@@ -4,7 +4,7 @@ WindowPosition	600+0
 Open File for Craft	/Users/rob/Desktop/44_reprap_python_beanshell/models/xml_models/manipulation_meta/import.xml
 alteration	False
 bottom	False
-carve	True
+carve	False
 chamber	False
 chop	False
 cleave	False
@@ -35,7 +35,7 @@ raft	False
 scale	False
 skin	False
 skirt	False
-smooth	False
+smooth	True
 speed	False
 splodge	False
 stretch	False

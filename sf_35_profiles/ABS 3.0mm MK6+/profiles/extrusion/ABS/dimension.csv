@@ -2,7 +2,7 @@ Format is tab separated dimension settings.
 Name                          	Value
 WindowPosition	700+0
 Open File for Dimension	
-Activate Dimension	True
+Activate Dimension	False
 Absolute Extrusion Distance	False
 Relative Extrusion Distance	True
 Extruder Retraction Speed (mm/s):	13.3

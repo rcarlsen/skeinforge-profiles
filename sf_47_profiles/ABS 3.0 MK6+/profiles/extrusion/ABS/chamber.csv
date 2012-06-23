@@ -2,7 +2,7 @@ Format is tab separated chamber settings.
 _Name                          	Value
 WindowPosition	700+0
 Open File for Chamber	
-Activate Chamber	True
+Activate Chamber	False
 Bed Temperature (Celcius):	110.0
 Bed Temperature Begin Change Height (mm):	-1.0
 Bed Temperature End Change Height (mm):	-1.0

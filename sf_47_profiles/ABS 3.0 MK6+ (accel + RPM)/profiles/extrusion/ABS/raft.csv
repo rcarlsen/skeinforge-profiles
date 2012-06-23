@@ -20,7 +20,7 @@ Interface Layers (integer):	0
 Interface Nozzle Lift over Interface Layer Thickness (ratio):	0.3
 Name of Support End File:	support_end.gcode
 Name of Support Start File:	support_start.gcode
-Operating Nozzle Lift over Layer Thickness (ratio):	0.6
+Operating Nozzle Lift over Layer Thickness (ratio):	0.33
 Raft Additional Margin over Length (%):	1.3
 Raft Margin (mm):	5.0
 Support Cross Hatch	True

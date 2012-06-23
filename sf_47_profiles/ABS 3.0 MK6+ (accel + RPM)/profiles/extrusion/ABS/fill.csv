@@ -13,16 +13,16 @@ Grid Extra Overlap (ratio):	0.1
 Grid Junction Separation Band Height (layers):	10
 Grid Junction Separation over Octogon Radius At End (ratio):	0.0
 Grid Junction Separation over Octogon Radius At Middle (ratio):	0.0
-Infill Begin Rotation (degrees):	90.0
+Infill Begin Rotation (degrees):	45.0
 Infill Begin Rotation Repeat (layers):	1
 Infill Odd Layer Extra Rotation (degrees):	90.0
 Grid Circular	False
-Grid Hexagonal	True
-Grid Rectangular	False
+Grid Hexagonal	False
+Grid Rectangular	True
 Line	False
 Infill Perimeter Overlap (ratio):	0.15
 Infill Solidity (ratio):	0.0
-Infill Width over Thickness (ratio):	1.67
+Infill Width over Thickness (ratio):	1.39
 Solid Surface Thickness (layers):	2
 Lower Left	True
 Nearest	False

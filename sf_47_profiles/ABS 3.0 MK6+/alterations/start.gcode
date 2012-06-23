@@ -16,7 +16,6 @@ M18 (stop the motors while waiting for warmup)
 M6 T0 (Wait for tool to heat up)
 G1 F50.0
 G1 E5 F500.0 (already at waiting position, just start extruding)
-G1 E3 F3000.0 (no ooze)
 G1 F2400.0
 (start wipe)
 G1 X60.0 Y-45.0 Z7.5 F2500.0

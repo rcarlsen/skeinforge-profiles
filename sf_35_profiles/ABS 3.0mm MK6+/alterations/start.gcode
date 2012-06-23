@@ -17,7 +17,7 @@ M18 (stop the motors while waiting for warmup)
 M6 T0 (Wait for tool to heat up)
 G1 F50.0
 
-M108 T0 S30
+M108 T0 S10
 M101 T0 (Extruder on, forward)
 G04 P1500 (Wait t/1000 seconds)
 M103 T0 (Extruder off)
